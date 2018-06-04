@@ -1,1 +1,3 @@
 ini adalah sebuah skenario awal
+
+Untuk pembuatan aplikasi chatting berbasis socket programming
