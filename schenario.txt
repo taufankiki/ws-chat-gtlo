@@ -1,7 +1,5 @@
 ini adalah sebuah skenario awal
-
 Untuk pembuatan aplikasi chatting berbasis socket programming
-
 Langkah-langkah yang perlu disiapkan:
 1. Installasi express
 2. Installasi Mocha untuk test case
