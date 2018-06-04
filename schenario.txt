@@ -4,3 +4,4 @@ Langkah-langkah yang perlu disiapkan:
 1. Installasi express
 2. Installasi Mocha untuk test case
 3. Installasi Socket.io
+4. Installasi Nodemon boleh
